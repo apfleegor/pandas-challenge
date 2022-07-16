@@ -1,0 +1,6 @@
+Alexandra Pfleegor
+PyCitySchools Report
+
+	One conclusion that we can make from our results is that students in this district are better at math than reading. The reasoning behind this claim is that the percentage of students passing reading is higher for every school than the percentage of students passing math. However, the definition of “better at” for our conclusion is getting better grades. Students might be better at math than reading, but perform poorly under testing conditions, for example. Thus, they might get higher grades in reading, where assignments are usually not timed.
+	Another general conclusion we can draw is that students at charter schools generally get better grades than those at district schools. This does not necessarily mean that the charter schools are better quality since charter schools typically have academic entry requirements. Instead, this just means that the students who go to these charter schools are more likely to pass reading and math than those at district schools. 
+
